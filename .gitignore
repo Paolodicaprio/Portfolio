@@ -1,2 +1,14 @@
-node_modules
-.mgx
+# Node modules
+node_modules/
+
+.mgx/
+
+# Build output
+.next/
+
+# Logs
+npm-debug.log*
+
+# OS-specific files
+.DS_Store
+Thumbs.db
