@@ -138,7 +138,7 @@ export const projects = [
     description: "Application web responsive permettant la veille technologique à travers l'intégration de divers services comme Google Alerts.",
     technologies: ["React", "Tailwind CSS", "API Integration"],
     link: "#",
-    image: "/images/project1.jpg",
+    image: "/images/Veille_technologique.png",
     featured: true,
   },
   {
@@ -146,7 +146,7 @@ export const projects = [
     description: "Développement d'un système d'authentification robuste avec gestion des sessions utilisateurs et protection contre les attaques courantes.",
     technologies: ["Laravel", "Vue.js", "JWT"],
     link: "#",
-    image: "/images/project2.jpg",
+    image: "/images/système_authentification_sécurisée.png",
     featured: true,
   },
   {
@@ -154,7 +154,7 @@ export const projects = [
     description: "Application mobile cross-platform pour la gestion de ressources et le suivi de projets.",
     technologies: ["Flutter", "Firebase", "REST API"],
     link: "#",
-    image: "/images/project3.jpg",
+    image: "/images/application_mobile_de_gestion.png",
     featured: true,
   },
   {
@@ -162,7 +162,7 @@ export const projects = [
     description: "Plateforme e-commerce complète avec système de paiement intégré et gestion des stocks.",
     technologies: ["WordPress", "WooCommerce", "PHP"],
     link: "#",
-    image: "/images/project4.jpg",
+    image: "/images/site_e-commerce.png",
     featured: false,
   },
   {
@@ -170,7 +170,7 @@ export const projects = [
     description: "Application Android pour collecter des données via questionnaires et intégration avec des APIs Open Data",
     technologies: ["React Native", "Node.js", "MongoDB", "REST API"],
     link: "#",
-    image: "/images/opendata-app.jpg", 
+    image: "/images/opendata.png", 
     featured: true,
     details: [
       "Collecte de données via formulaires dynamiques",
