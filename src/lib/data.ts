@@ -10,6 +10,9 @@ export const personalInfo = {
     linkedin: "https://www.linkedin.com/in/paolo-dagba-1315a6266?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
     twitter: "https://x.com/It_sPaolo?t=bMbXUk0CDs8xqm_SaaJepg&s=09",
   },
+  icons: {
+    icon: "/public/favicon.png", 
+  },
 };
 
 export const skills = [

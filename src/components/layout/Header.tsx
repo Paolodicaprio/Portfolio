@@ -79,7 +79,7 @@ export default function Header() {
           <MobileNavLink href="/blog" onClick={toggleMobileMenu}>Blog</MobileNavLink>
           <MobileNavLink href="/contact" onClick={toggleMobileMenu}>Contact</MobileNavLink>
           <Link 
-            href="/contact" 
+            href="" 
             className="btn-primary mt-2 text-center"
             onClick={toggleMobileMenu}
           >
